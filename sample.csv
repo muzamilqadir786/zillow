@@ -1,0 +1,236 @@
+city,propertyUrl,zestimate,price,zipcode,beds,state,street,baths,sqfts,ownerPhone
+Monroeville,http://www.zillow.com/homedetails/14607-Houk-Rd-Monroeville-IN-46773/73197577_zpid/,,"$600,000",46773,4 beds,IN,,4 baths,"5,800 sqft",
+Schaumburg,http://www.zillow.com/homedetails/901-Surrey-Dr-APT-1B-Schaumburg-IL-60193/3438757_zpid/,"$136,038",,60193,3 beds,IL,,2 baths,"1,200 sqft",
+Forsyth,http://www.zillow.com/homedetails/150-Sunken-Forest-Dr-BLDG-10-253-Forsyth-MO-65653/113781222_zpid/,"$83,056","$84,000",65653,2 beds,MO,,2 baths,"1,250 sqft",(760) 884-4652 
+Los Angeles,http://www.zillow.com/homedetails/2726-Dunleer-Pl-Los-Angeles-CA-90064/20461558_zpid/,"$1,311,809","$1,200,000",90064,3 beds,CA,,2 baths,"1,386 sqft",
+Long Beach,http://www.zillow.com/homedetails/1521-Junipero-Ave-Long-Beach-CA-90804/21227369_zpid/,"$576,886","$795,000",90804,6 beds,CA,,4 baths,"2,253 sqft",
+Chula Vista,http://www.zillow.com/homedetails/1840-Monaco-Dr-Chula-Vista-CA-91913/64897467_zpid/,"$319,450","$339,900",91913,3 beds,CA,,2.5 baths,"1,350 sqft",(619) 931-8285 
+Huntington Station,http://www.zillow.com/homedetails/127-E-3rd-St-Huntington-Station-NY-11746/59573719_zpid/,"$264,427",,11746,3 beds,NY,,2 baths,-- sqft,
+Brooklyn,http://www.zillow.com/homedetails/1317-E-57th-St-Brooklyn-NY-11234/30764864_zpid/,"$417,737",,11234,4 beds,NY,,3 baths,"1,596 sqft",
+Cincinnati,http://www.zillow.com/homedetails/215-W-Seymour-Ave-Cincinnati-OH-45216/34267636_zpid/,"$53,879",,45216,2 beds,OH,,1 bath,"1,084 sqft",
+Portland,http://www.zillow.com/homedetails/14635-SE-Caruthers-St-Portland-OR-97233/53829792_zpid/,"$189,120",,97233,3 beds,OR,,1 bath,864 sqft,
+Dingmans Ferry,http://www.zillow.com/homedetails/142-Spring-Drive-Dingmans-Ferry-PA-18328/2101290513_zpid/,"$88,942","$135,000",18328,3 beds,PA,,1 bath,"1,400 sqft",
+La Puente,http://www.zillow.com/homedetails/14655-Rath-St-La-Puente-CA-91744/21567195_zpid/,"$360,216",,91744,3 beds,CA,,2 baths,"1,071 sqft",
+Philadelphia,http://www.zillow.com/homedetails/954-N-66th-St-Philadelphia-PA-19151/10351796_zpid/,"$74,570",,19151,3 beds,PA,,1 bath,"1,005 sqft",
+La Mesa,http://www.zillow.com/homedetails/5828-Clay-Ave-La-Mesa-CA-91942/17028961_zpid/,"$505,403","$539,000",91942,4 beds,CA,,2 baths,"2,100 sqft",
+Kings Beach,http://www.zillow.com/homedetails/8422-Dolly-Varden-Ave-Kings-Beach-CA-96143/17697390_zpid/,"$314,297","$425,000",96143,3 beds,CA,,2 baths,"1,184 sqft",(559) 964-7273 
+Harborcreek,http://www.zillow.com/homedetails/Old-Shades-Beach-Rd-Harborcreek-PA-16421/2105360859_zpid/,,"$25,000",16421,,PA,,,,(814) 882-3621 
+Camano Island,http://www.zillow.com/homedetails/10-Edgewater-Dr-Camano-Island-WA-98282/60896263_zpid/,"$519,704","$489,999",98282,2 beds,WA,,2 baths,"1,376 sqft",(360) 840-9853 
+Moxee,http://www.zillow.com/homedetails/11785-Postma-Rd-Moxee-WA-98936/117715335_zpid/,"$195,476",,98936,4 beds,WA,,2 baths,"1,632 sqft",
+Tobyhanna,http://www.zillow.com/homedetails/106-Marlin-Rd-Tobyhanna-PA-18466/9799041_zpid/,"$110,672",,18466,5 beds,PA,,2 baths,"2,072 sqft",
+Edmonds,http://www.zillow.com/homedetails/7516-218th-St-SW-APT-4-Edmonds-WA-98026/38562378_zpid/,"$160,722",,98026,3 beds,WA,,2 baths,"1,178 sqft",
+Des Moines,http://www.zillow.com/homedetails/20130-4th-Ave-S-Des-Moines-WA-98198/49066823_zpid/,"$195,475",,98198,3 beds,WA,,1 bath,960 sqft,
+Ely,http://www.zillow.com/homedetails/1006-S-1st-Ave-E-Ely-MN-55731/72238370_zpid/,"$196,386",,55731,3 beds,MN,,3 baths,"3,168 sqft",
+Puyallup,http://www.zillow.com/homedetails/11434-184th-Street-Ct-E-Puyallup-WA-98374/68543822_zpid/,"$224,515",,98374,4 beds,WA,,2.5 baths,"2,406 sqft",
+Seattle,http://www.zillow.com/homedetails/2625-28th-Ave-W-Seattle-WA-98199/48943387_zpid/,"$1,019,369","$999,000",98199,4 beds,WA,,2.25 baths,"2,710 sqft",
+Everett,http://www.zillow.com/homedetails/12616-48th-Dr-SE-Everett-WA-98208/38560727_zpid/,"$260,076",,98208,4 beds,WA,,2.5 baths,"1,459 sqft",
+Seattle,http://www.zillow.com/homedetails/2152-N-112th-St-UNIT-112-Seattle-WA-98133/49108881_zpid/,"$177,881",,98133,2 beds,WA,,1 bath,837 sqft,
+Seattle,http://www.zillow.com/homedetails/323-N-46th-St-Seattle-WA-98103/49139723_zpid/,"$685,273","$749,000",98103,6 beds,WA,,2 baths,"2,580 sqft",
+Seattle,http://www.zillow.com/homedetails/5108-S-Myrtle-St-Seattle-WA-98118/48817419_zpid/,"$431,908","$499,999",98118,3 beds,WA,,1.75 baths,"1,230 sqft",
+Seattle,http://www.zillow.com/homedetails/911-Nob-Hill-Ave-N-Seattle-WA-98109/48963596_zpid/,"$662,966","$1,300,000",98109,3 beds,WA,,2 baths,"1,609 sqft",
+Lynnwood,http://www.zillow.com/homedetails/21025-Locust-Way-Lynnwood-WA-98036/38471760_zpid/,"$363,995","$385,000",98036,3 beds,WA,,2 baths,"1,128 sqft",
+Brooklyn Park,http://www.zillow.com/homedetails/2736-Brookdale-Ln-Brooklyn-Park-MN-55444/1939344_zpid/,"$65,790",,55444,2 beds,MN,,1 bath,924 sqft,
+Seattle,http://www.zillow.com/homedetails/1400-Hubbell-Pl-APT-1112-Seattle-WA-98101/58383114_zpid/,"$246,383","$349,000",98101,1 bed,WA,,1 bath,572 sqft,
+Kirkland,http://www.zillow.com/homedetails/12229-100th-Ave-NE-Kirkland-WA-98034/63336466_zpid/,"$189,618",,98034,1 bed,WA,,1 bath,655 sqft,
+Cloquet,http://www.zillow.com/homedetails/404-Ridgewood-Dr-Cloquet-MN-55720/2144289625_zpid/,"$249,702","$285,000",55720,4 beds,MN,,2.5 baths,"2,250 sqft",
+Savage,http://www.zillow.com/homedetails/4272-W-124th-St-Savage-MN-55378/2180881_zpid/,"$118,633",,55378,3 beds,MN,,2 baths,"1,204 sqft",
+Bloomington,http://www.zillow.com/homedetails/5303-Highpointe-Dr-Bloomington-MN-55437/1951818_zpid/,"$160,525",,55437,2 beds,MN,,2.5 baths,"1,400 sqft",
+Eagan,http://www.zillow.com/homedetails/4610-Kingsbury-Dr-Eagan-MN-55122/1617472_zpid/,"$298,599",,55122,3 beds,MN,,2.5 baths,"2,336 sqft",
+Savage,http://www.zillow.com/homedetails/4748-Natchez-Ct-Savage-MN-55378/2181507_zpid/,"$236,924",,55378,4 beds,MN,,2 baths,"2,001 sqft",
+Farmington,http://www.zillow.com/homedetails/5400-Oriole-Dr-Farmington-MN-55024/61189901_zpid/,"$142,136",,55024,2 beds,MN,,2 baths,"1,610 sqft",
+Minneapolis,http://www.zillow.com/homedetails/3919-Fremont-Ave-N-Minneapolis-MN-55412/1720474_zpid/,"$94,323",,55412,2 beds,MN,,1 bath,"1,003 sqft",
+Saint Paul,http://www.zillow.com/homedetails/1810-Nevada-Ave-E-Saint-Paul-MN-55119/2113214_zpid/,"$146,392",,55119,3 beds,MN,,2 baths,"1,564 sqft",
+Rochester,http://www.zillow.com/homedetails/410-16th-St-SW-Rochester-MN-55902/91447688_zpid/,"$351,827","$399,000",55902,6 beds,MN,,4 baths,"4,032 sqft",
+Saint Paul,http://www.zillow.com/homedetails/237-White-Bear-Ave-N-Saint-Paul-MN-55106/2039675_zpid/,"$192,488",,55106,4 beds,MN,,2 baths,"2,040 sqft",
+Minneapolis,http://www.zillow.com/homedetails/4537-31st-Ave-S-Minneapolis-MN-55406/1748759_zpid/,"$346,612","$450,000",55406,4 beds,MN,,2 baths,"2,350 sqft",
+Bloomington,http://www.zillow.com/homedetails/2308-W-95th-St-Bloomington-MN-55431/1845800_zpid/,"$327,578","$385,000",55431,4 beds,MN,,3 baths,"2,400 sqft",
+Crystal,http://www.zillow.com/homedetails/4548-Maryland-Ave-N-Crystal-MN-55428/1769704_zpid/,"$188,300",,55428,4 beds,MN,,2 baths,"2,124 sqft",
+Rosemount,http://www.zillow.com/homedetails/14004-Delta-Ave-Rosemount-MN-55068/1677091_zpid/,"$329,344","$359,900",55068,4 beds,MN,,4 baths,"2,500 sqft",
+Philadelphia,http://www.zillow.com/homedetails/5732-Pemberton-St-Philadelphia-PA-19143/10454014_zpid/,"$61,033",,19143,3 beds,PA,,1 bath,"1,128 sqft",
+Hastings,http://www.zillow.com/homedetails/8299-Quadrant-Ave-S-Hastings-MN-55033/2234506_zpid/,"$500,583","$650,000",55033,4 beds,MN,,3 baths,"3,584 sqft",
+Philadelphia,http://www.zillow.com/homedetails/2217-S-63rd-St-Philadelphia-PA-19142/10400923_zpid/,"$86,304",,19142,4 beds,PA,,1 bath,"1,600 sqft",
+Flourtown,http://www.zillow.com/homedetails/28-Mccloskey-Road-Flourtown-PA-19031/2101266732_zpid/,"$349,791","$425,000",19031,3 beds,PA,,2.5 baths,"2,136 sqft",(215) 233-2867 
+Philadelphia,http://www.zillow.com/homedetails/8000-Lindbergh-Blvd-Philadelphia-PA-19153/10409699_zpid/,"$120,344",,19153,3 beds,PA,,1.5 baths,"1,440 sqft",
+Philadelphia,http://www.zillow.com/homedetails/219-Krams-Ave-APT-A1-Philadelphia-PA-19127/63499215_zpid/,"$149,173",,19127,1 bed,PA,,1 bath,651 sqft,
+Whitehall,http://www.zillow.com/homedetails/4590-Spring-St-Whitehall-PA-18052/9671112_zpid/,"$422,787","$685,500",18052,4 beds,PA,,2.5 baths,"1,818 sqft",
+Philadelphia,http://www.zillow.com/homedetails/1310-E-Airdrie-St-Philadelphia-PA-19124/10335103_zpid/,"$51,082","$55,000",19124,3 beds,PA,,1 bath,"1,050 sqft",(267) 441-6177 
+Central City,http://www.zillow.com/homedetails/1451-Peninsula-Dr-Central-City-PA-15926/78754243_zpid/,"$314,575","$532,000",15926,3 beds,PA,,3 baths,"2,069 sqft",(814) 754-4236 
+Prospect,http://www.zillow.com/homedetails/816-David-St-Prospect-PA-16052/75192633_zpid/,"$93,758","$10,000",16052,3 beds,PA,,1 bath,-- sqft,(724) 841-6488 
+Levittown,http://www.zillow.com/homedetails/24-Kenwood-Dr-S-Levittown-PA-19055/8978935_zpid/,"$190,684",,19055,4 beds,PA,,2 baths,"1,751 sqft",
+York,http://www.zillow.com/homedetails/7313-N-Sentinel-Ln-York-PA-17403/60471082_zpid/,"$157,223",,17403,2 beds,PA,,2.5 baths,"1,600 sqft",
+Philadelphia,http://www.zillow.com/homedetails/5322-Grays-Ave-Philadelphia-PA-19143/10480324_zpid/,"$32,744","$70,000",19143,3 beds,PA,,1 bath,"1,026 sqft",(973) 283-5943 
+Brookhaven,http://www.zillow.com/homedetails/5200-Hilltop-Dr-APT-I4-Brookhaven-PA-19015/9309285_zpid/,"$80,053","$140,000",19015,2 beds,PA,,1.5 baths,704 sqft,
+Aliquippa,http://www.zillow.com/homedetails/3305-Brodhead-Rd-Aliquippa-PA-15001/86366291_zpid/,"$165,085","$155,000",15001,3 beds,PA,,2 baths,"1,842 sqft",(724) 713-0660 
+Yardley,http://www.zillow.com/homedetails/1230-Pine-Grove-Rd-Yardley-PA-19067/9020503_zpid/,"$307,052",,19067,4 beds,PA,,2 baths,"2,220 sqft",
+Columbia,http://www.zillow.com/homedetails/557-Pitney-Rd-Columbia-PA-17512/9722417_zpid/,"$152,808",,17512,3 beds,PA,,2.5 baths,"1,339 sqft",
+Bethlehem,http://www.zillow.com/homedetails/819-Fernwood-St-Bethlehem-PA-18018/10159192_zpid/,"$109,487",,18018,3 beds,PA,,1 bath,"1,152 sqft",
+Emmaus,http://www.zillow.com/homedetails/650-Chestnut-St-Emmaus-PA-18049/9626341_zpid/,"$105,070",,18049,4 beds,PA,,1 bath,"1,576 sqft",
+Philadelphia,http://www.zillow.com/homedetails/415-S-62nd-St-Philadelphia-PA-19143/10186283_zpid/,"$87,299",,19143,3 beds,PA,,1 bath,"1,140 sqft",
+Philadelphia,http://www.zillow.com/homedetails/5746-Haverford-Ave-Philadelphia-PA-19131/10192775_zpid/,"$55,784",,19131,4 beds,PA,,1.5 baths,"1,450 sqft",
+Hillsboro,http://www.zillow.com/homedetails/24085-SW-Tualatin-Valley-Hwy-Hillsboro-OR-97123/48595871_zpid/,Price Unknown,,97123,,OR,,,,
+Pendleton,http://www.zillow.com/homedetails/1304-SW-Frazer-Ave-Pendleton-OR-97801/84552078_zpid/,"$139,360","$109,000",97801,4 beds,OR,,1.5 baths,"2,300 sqft",
+Philadelphia,http://www.zillow.com/homedetails/6131-Locust-St-Philadelphia-PA-19139/10183691_zpid/,"$50,323",,19139,4 beds,PA,,1.5 baths,"1,410 sqft",
+Fox Chapel,http://www.zillow.com/homedetails/1-Quail-Hill-Rd-Fox-Chapel-PA-15238/11528079_zpid/,"$651,820","$699,900",15238,4 beds,PA,,4 baths,"3,324 sqft",(412) 350-9920 
+Philadelphia,http://www.zillow.com/homedetails/111-N-57th-St-Philadelphia-PA-19139/10192141_zpid/,"$37,523",,19139,3 beds,PA,,1 bath,"1,166 sqft",
+Portland,http://www.zillow.com/homedetails/405-N-Buffalo-St-Portland-OR-97217/53905135_zpid/,"$417,568","$550,000",97217,3 beds,OR,,1 bath,"2,550 sqft",
+Cornelius,http://www.zillow.com/homedetails/1178-S-Ginger-St-Cornelius-OR-97113/48600835_zpid/,"$208,333","$235,000",97113,3 beds,OR,,2 baths,"1,008 sqft",
+Portland,http://www.zillow.com/homedetails/1815-NE-86th-Ave-Portland-OR-97220/53939371_zpid/,"$293,772","$275,000",97220,5 beds,OR,,2 baths,"1,859 sqft",
+Portland,http://www.zillow.com/homedetails/5326-NE-10th-Ave-Portland-OR-97211/65064621_zpid/,"$214,368","$275,000",97211,1 bed,OR,,1 bath,559 sqft,
+Portland,http://www.zillow.com/homedetails/11919-SE-Harold-St-Portland-OR-97266/54003365_zpid/,"$217,769","$250,000",97266,4 beds,OR,,2.5 baths,"1,994 sqft",
+Philadelphia,http://www.zillow.com/homedetails/3009-N-Croskey-St-Philadelphia-PA-19132/10225625_zpid/,"$34,513",,19132,3 beds,PA,,1 bath,"1,380 sqft",
+Eugene,http://www.zillow.com/homedetails/989-Laurelhurst-Dr-Eugene-OR-97402/48398103_zpid/,"$278,509","$325,000",97402,6 beds,OR,,3 baths,"2,800 sqft",
+Molalla,http://www.zillow.com/homedetails/9906-S-Wildcat-Rd-Molalla-OR-97038/48292593_zpid/,"$524,081","$850,000",97038,2 beds,OR,,1.5 baths,"1,860 sqft",
+Coos Bay,http://www.zillow.com/homedetails/1830-Lincoln-Rd-Coos-Bay-OR-97420/75141096_zpid/,"$214,354","$259,500",97420,4 beds,OR,,3 baths,"1,920 sqft",(541) 267-0482 
+Portland,http://www.zillow.com/homedetails/17465-NW-Blacktail-Dr-Portland-OR-97229/48570286_zpid/,"$336,398","$450,000",97229,4 beds,OR,,2.5 baths,"1,952 sqft",
+Port Hueneme,http://www.zillow.com/homedetails/209-S-Ventura-Rd-UNIT-26-Port-Hueneme-CA-93041/16402227_zpid/,"$184,555",,93041,2 beds,CA,,1.5 baths,965 sqft,
+Fresno,http://www.zillow.com/homedetails/7623-N-Meridian-Ave-Fresno-CA-93720/18693647_zpid/,"$382,934","$445,170",93720,4 beds,CA,,2.75 baths,"2,698 sqft",(559) 907-4134 
+Hacienda Heights,http://www.zillow.com/homedetails/15302-Los-Altos-Dr-Hacienda-Heights-CA-91745/21490685_zpid/,"$613,148","$620,000",91745,3 beds,CA,,2 baths,"1,384 sqft",(210) 807-0228 
+Tygh Valley,http://www.zillow.com/homedetails/82821-Highway-216-Tygh-Valley-OR-97063/86350049_zpid/,"$213,884","$250,000",97063,3 beds,OR,,2 baths,"1,400 sqft",(541) 980-2521 
+San Bernardino,http://www.zillow.com/homedetails/2394-Walnut-St-San-Bernardino-CA-92410/17229234_zpid/,"$266,911","$290,000",92410,4 beds,CA,,2 baths,"1,442 sqft",(951) 250-3434 
+San Francisco,http://www.zillow.com/homedetails/330-21st-Ave-San-Francisco-CA-94121/15091961_zpid/,"$1,809,675",,94121,5 beds,CA,,2 baths,"2,525 sqft",
+Citrus Heights,http://www.zillow.com/homedetails/7547-Prince-St-Citrus-Heights-CA-95610/25982628_zpid/,"$256,071",,95610,3 beds,CA,,1 bath,"1,524 sqft",
+Fairfield,http://www.zillow.com/homedetails/5136-Pond-Side-Way-Fairfield-CA-94534/63157733_zpid/,"$406,703",,94534,4 beds,CA,,2.5 baths,"2,248 sqft",
+Victorville,http://www.zillow.com/homedetails/16467-Silica-Dr-Victorville-CA-92395/17632718_zpid/,"$132,605",,92395,3 beds,CA,,2 baths,"1,244 sqft",
+Riverside,http://www.zillow.com/homedetails/16350-Sun-Summit-Dr-Riverside-CA-92503/17800317_zpid/,"$441,676",,92503,3 beds,CA,,2 baths,"2,405 sqft",
+Perris,http://www.zillow.com/homedetails/337-E-6th-St-Perris-CA-92570/17901503_zpid/,Price Unknown,,92570,4 beds,CA,,2 baths,"1,400 sqft",
+Los Angeles,http://www.zillow.com/homedetails/132-W-104th-St-Los-Angeles-CA-90003/20971546_zpid/,"$258,810",,90003,4 beds,CA,,2 baths,"1,296 sqft",
+Norco,http://www.zillow.com/homedetails/2851-Huerta-Way-Norco-CA-92860/17787693_zpid/,"$403,759",,92860,5 beds,CA,,2 baths,"2,036 sqft",
+Laguna Hills,http://www.zillow.com/homedetails/23491-Via-Jacinto-Laguna-Hills-CA-92656/25542141_zpid/,"$336,248",,92656,3 beds,CA,,2 baths,"1,246 sqft",
+Cabazon,http://www.zillow.com/homedetails/14714-Manzanillo-St-Cabazon-CA-92230/18033157_zpid/,"$124,275",,92230,3 beds,CA,,1 bath,924 sqft,
+Hemet,http://www.zillow.com/homedetails/221-Ruby-Ave-Hemet-CA-92543/17986317_zpid/,"$135,724",,92543,2 beds,CA,,2 baths,"1,168 sqft",
+La Habra,http://www.zillow.com/homedetails/309-W-Rose-Ave-La-Habra-CA-90631/25107519_zpid/,"$396,063",,90631,5 beds,CA,,3 baths,"1,513 sqft",
+Whittier,http://www.zillow.com/homedetails/9502-Amsdell-Ave-Whittier-CA-90605/21440727_zpid/,"$396,913",,90605,4 beds,CA,,2 baths,"1,518 sqft",
+San Pedro,http://www.zillow.com/homedetails/1415-N-Meyler-St-San-Pedro-CA-90731/21304110_zpid/,"$598,638",,90731,4 beds,CA,,2 baths,"2,258 sqft",
+Pico Rivera,http://www.zillow.com/homedetails/8912-Klinedale-Ave-Pico-Rivera-CA-90660/21102811_zpid/,Price Unknown,,90660,2 beds,CA,,1 bath,870 sqft,
+Hemet,http://www.zillow.com/homedetails/41355-Ladd-Ct-Hemet-CA-92544/17984381_zpid/,"$169,137",,92544,3 beds,CA,,2 baths,"1,220 sqft",
+Hemet,http://www.zillow.com/homedetails/601-S-Taylor-St-Hemet-CA-92543/17980891_zpid/,"$125,154",,92543,2 beds,CA,,1 bath,"1,072 sqft",
+Harbor City,http://www.zillow.com/homedetails/1414-260th-St-UNIT-9-Harbor-City-CA-90710/21291147_zpid/,"$282,791",,90710,2 beds,CA,,2 baths,"1,096 sqft",
+South Gate,http://www.zillow.com/homedetails/9925-Orange-Ave-South-Gate-CA-90280/21036001_zpid/,"$369,956",,90280,2 beds,CA,,2 baths,"1,546 sqft",
+Rocklin,http://www.zillow.com/homedetails/1015-Boardwalk-Way-Rocklin-CA-95765/59303250_zpid/,"$221,366","$249,765",95765,2 beds,CA,,2 baths,"1,083 sqft",(530) 852-1576 
+Pleasanton,http://www.zillow.com/homedetails/2363-Woodthrush-Way-Pleasanton-CA-94566/25078200_zpid/,"$1,424,105","$1,575,000",94566,5 beds,CA,,3 baths,"2,954 sqft",
+Long Beach,http://www.zillow.com/homedetails/3148-Locust-Ave-Long-Beach-CA-90807/21194028_zpid/,"$368,763",,90807,3 beds,CA,,2 baths,"1,360 sqft",
+Sherman Oaks,http://www.zillow.com/homedetails/14631-Dickens-St-APT-2-Sherman-Oaks-CA-91403/19988033_zpid/,"$586,446","$700,000",91403,2 beds,CA,,2.5 baths,"1,120 sqft",
+Woodland Hills,http://www.zillow.com/homedetails/20954-Bandera-St-Woodland-Hills-CA-91364/19944929_zpid/,"$822,895","$929,000",91364,3 beds,CA,,3 baths,"2,355 sqft",(818) 426-2628 
+Montebello,http://www.zillow.com/homedetails/617-S-Taylor-Ave-Montebello-CA-90640/21088210_zpid/,"$439,701","$489,000",90640,3 beds,CA,,2 baths,"1,540 sqft",(714) 863-8480 
+San Marino,http://www.zillow.com/homedetails/1445-Waverly-Rd-San-Marino-CA-91108/20701344_zpid/,"$3,886,489","$4,200,000",91108,4 beds,CA,,4.5 baths,"4,650 sqft",
+Mission Viejo,http://www.zillow.com/homedetails/24862-Lagrima-Mission-Viejo-CA-92692/25612726_zpid/,"$658,776","$709,000",92692,4 beds,CA,,2 baths,"1,651 sqft",(949) 735-0449 
+Rancho Mirage,http://www.zillow.com/homedetails/51-Mission-Palms-East-Rancho-Mirage-CA-92270/2101015524_zpid/,"$646,125","$697,000",92270,3 beds,CA,,4 baths,"3,100 sqft",(760) 770-4088 
+Portola,http://www.zillow.com/homedetails/380-E-Magnolia-Ave-Portola-CA-96122/52928076_zpid/,"$160,745","$239,500",96122,3 beds,CA,,2 baths,"1,687 sqft",(916) 759-9996 
+Piedmont,http://www.zillow.com/homedetails/90-Oakmont-Ave-Piedmont-CA-94610/24827098_zpid/,"$2,262,537","$2,555,000",94610,4 beds,CA,,3 baths,"3,061 sqft",
+Visalia,http://www.zillow.com/homedetails/1225-S-Conyer-St-Visalia-CA-93277/16240198_zpid/,"$190,072","$169,900",93277,3 beds,CA,,2 baths,"2,000 sqft",(559) 740-8314 
+Alpaugh,http://www.zillow.com/homedetails/5017-Road-42-Alpaugh-CA-93201/83353081_zpid/,"$191,128","$245,000",93201,3 beds,CA,,2 baths,"1,800 sqft",(818) 633-4618 
+Hanford,http://www.zillow.com/homedetails/704-W-Malone-St-Hanford-CA-93230/51072662_zpid/,"$111,693","$145,000",93230,3 beds,CA,,1 bath,"1,026 sqft",(559) 381-2154 
+Irvine,http://www.zillow.com/homedetails/45-Columbus-Irvine-CA-92620/25515737_zpid/,"$1,178,801","$1,200,000",92620,4 beds,CA,,4 baths,"2,439 sqft",
+Lakehead,http://www.zillow.com/homedetails/21850-Lakeshore-Drive-Lakehead-CA-96051/2101001803_zpid/,"$217,144","$279,000",96051,3 beds,CA,,2.5 baths,"1,700 sqft",(530) 355-5334 
+El Cajon,http://www.zillow.com/homedetails/11716-Avenida-Marcella-El-Cajon-CA-92019/17042461_zpid/,"$480,635","$469,000",92019,3 beds,CA,,3 baths,"1,596 sqft",
+San Jacinto,http://www.zillow.com/homedetails/2230-Lake-Park-Dr-SPC-127-San-Jacinto-CA-92583/17750654_zpid/,"$124,898","$34,900",92583,2 beds,CA,,2 baths,"1,440 sqft",(951) 446-6291 
+Los Angeles,http://www.zillow.com/homedetails/1143-Manzanita-St-Los-Angeles-CA-90029/20746113_zpid/,"$715,370","$950,000",90029,2 beds,CA,,2 baths,"1,041 sqft",
+Calistoga,http://www.zillow.com/homedetails/1300-Cedar-St-Calistoga-CA-94515/82790108_zpid/,"$1,335,789","$1,950,000",94515,5 beds,CA,,5 baths,"3,200 sqft",
+Fremont,http://www.zillow.com/homedetails/4532-Merced-Cmn-Fremont-CA-94536/2141403559_zpid/,"$481,047","$550,000",94536,2 beds,CA,,2 baths,"1,050 sqft",
+San Juan Capistrano,http://www.zillow.com/homedetails/27703-Ortega-Hwy-89-San-Juan-Capistrano-CA-92675/2100889166_zpid/,"$617,526","$185,000",92675,2 beds,CA,,2 baths,"1,536 sqft",(949) 699-0890 
+Groveland,http://www.zillow.com/homedetails/20743-Buttercup-Cir-Groveland-CA-95321/16206362_zpid/,"$124,027","$185,000",95321,3 beds,CA,,2 baths,"1,183 sqft",
+Sun City,http://www.zillow.com/homedetails/27595-Boston-Dr-Sun-City-CA-92586/17918084_zpid/,"$202,428","$219,900",92586,2 beds,CA,,2 baths,"1,328 sqft",
+Los Angeles,http://www.zillow.com/homedetails/4447-Radium-Dr-Los-Angeles-CA-90032/20638035_zpid/,"$335,269",,90032,3 beds,CA,,2 baths,960 sqft,
+Big Bear City,http://www.zillow.com/homedetails/1080-Dumas-Ln-Big-Bear-City-CA-92314/17391473_zpid/,"$115,841","$147,500",92314,2 beds,CA,,1 bath,610 sqft,(760) 777-2119 
+W Hollywood,http://www.zillow.com/homedetails/800-Westmount-Dr-APT-2-W-Hollywood-CA-90069/20516739_zpid/,"$846,388","$875,000",90069,2 beds,CA,,2.5 baths,"1,399 sqft",
+Lake Mathews,http://www.zillow.com/homedetails/20870-Mandeville-Dr-Lake-Mathews-CA-92570/2113550739_zpid/,"$715,547","$820,000",92570,3 beds,CA,,3 baths,"3,892 sqft",
+San Francisco,http://www.zillow.com/homedetails/9-Ora-Way-San-Francisco-CA-94131/15199754_zpid/,"$1,776,244","$3,500,000",94131,2 beds,CA,,3 baths,"2,200 sqft",
+Carlsbad,http://www.zillow.com/homedetails/4537-Cove-Dr-2-Carlsbad-CA-92008/16648741_zpid/,"$892,438","$1,395,000",92008,4 beds,CA,,3.5 baths,"3,000 sqft",
+San Jose,http://www.zillow.com/homedetails/724-E-Julian-St-San-Jose-CA-95112/19709837_zpid/,"$711,611","$650,000",95112,4 beds,CA,,2 baths,"1,813 sqft",
+Valley Springs,http://www.zillow.com/homedetails/6270-Southworth-Rd-Valley-Springs-CA-95252/2123925921_zpid/,"$540,993","$545,000",95252,6 beds,CA,,3 baths,"4,456 sqft",
+Camarillo,http://www.zillow.com/homedetails/555-Paseo-De-Cortaga-Camarillo-CA-93010/16366284_zpid/,"$512,100","$625,000",93010,4 beds,CA,,2.5 baths,"1,828 sqft",
+Richmond,http://www.zillow.com/homedetails/2517-Clinton-Ave-Richmond-CA-94804/18542918_zpid/,"$306,512","$399,900",94804,2 beds,CA,,1 bath,740 sqft,
+Hermosa Beach,http://www.zillow.com/homedetails/908-8th-St-Hermosa-Beach-CA-90254/20426785_zpid/,"$1,285,185","$1,350,000",90254,2 beds,CA,,2 baths,"1,670 sqft",
+Santa Ana,http://www.zillow.com/homedetails/3925-S-Ross-St-Santa-Ana-CA-92707/25455958_zpid/,"$541,201",,92707,3 beds,CA,,2 baths,900 sqft,
+Murrieta,http://www.zillow.com/homedetails/27623-Mangrove-St-Murrieta-CA-92563/69278294_zpid/,"$309,881",,92563,3 beds,CA,,2 baths,"1,761 sqft",
+Murrieta,http://www.zillow.com/homedetails/40503-Carly-Ct-Murrieta-CA-92562/52476462_zpid/,"$336,630",,92562,4 beds,CA,,3 baths,"2,469 sqft",
+Laguna Niguel,http://www.zillow.com/homedetails/28241-Sorrento-UNIT-126-Laguna-Niguel-CA-92677/25761050_zpid/,"$272,896",,92677,2 beds,CA,,1 bath,792 sqft,
+San Juan Capistrano,http://www.zillow.com/homedetails/27703-Ortega-Hwy-SPC-89-San-Juan-Capistrano-CA-92675/64646413_zpid/,"$587,168","$185,000",92675,2 beds,CA,,2 baths,"1,536 sqft",
+Perris,http://www.zillow.com/homedetails/20870-Mandeville-Dr-Perris-CA-92570/17886470_zpid/,"$704,367","$820,000",92570,3 beds,CA,,3 baths,"3,892 sqft",
+Daly City,http://www.zillow.com/homedetails/923-Bradley-Dr-Daly-City-CA-94015/15465575_zpid/,"$832,210","$2,000,000",94015,3 beds,CA,,1 bath,"1,150 sqft",
+Burbank,http://www.zillow.com/homedetails/248-N-Maple-St-Burbank-CA-91505/2129858605_zpid/,"$864,634","$1,200,000",91505,4 beds,CA,,3 baths,"2,484 sqft",
+Oakland,http://www.zillow.com/homedetails/115-Pershing-Dr-Oakland-CA-94611/24813342_zpid/,"$1,449,273","$2,400,000",94611,3 beds,CA,,2 baths,"1,946 sqft",
+La Quinta,http://www.zillow.com/homedetails/49010-Marimba-Ct-La-Quinta-CA-92253/18104201_zpid/,"$342,359",,92253,3 beds,CA,,2 baths,"1,620 sqft",
+Kerman,http://www.zillow.com/homedetails/14570-W-Stanislaus-Ave-Kerman-CA-93630/18631554_zpid/,"$160,210",,93630,3 beds,CA,,2 baths,"1,396 sqft",
+Reedley,http://www.zillow.com/homedetails/1265-E-North-Ave-Reedley-CA-93654/18678512_zpid/,"$125,208",,93654,3 beds,CA,,2 baths,"1,220 sqft",
+Cincinnati,http://www.zillow.com/homedetails/12116-Elkwood-Dr-Cincinnati-OH-45240/34371855_zpid/,"$127,256",,45240,4 beds,OH,,2.5 baths,"1,953 sqft",
+Salinas,http://www.zillow.com/homedetails/1797-Cherokee-Dr-UNIT-2-Salinas-CA-93906/19385446_zpid/,"$169,912",,93906,3 beds,CA,,1 bath,"1,155 sqft",
+Cincinnati,http://www.zillow.com/homedetails/9831-Capstan-Dr-Cincinnati-OH-45251/34299740_zpid/,"$61,052",,45251,3 beds,OH,,1 bath,925 sqft,
+Santa Cruz,http://www.zillow.com/homedetails/1451-Branciforte-Dr-Santa-Cruz-CA-95065/16151832_zpid/,"$1,119,528","$1,200,000",95065,2 beds,CA,,2 baths,"1,850 sqft",
+Cincinnati,http://www.zillow.com/homedetails/7243-Creekview-Dr-APT-6-Cincinnati-OH-45247/34306436_zpid/,"$41,059",,45247,2 beds,OH,,2 baths,968 sqft,
+Columbus,http://www.zillow.com/homedetails/787-Bassett-Ave-Columbus-OH-43219/33849332_zpid/,"$36,004",,43219,3 beds,OH,,1 bath,"1,160 sqft",
+Anderson Township,http://www.zillow.com/homedetails/6965-Bridges-Road-Anderson-Township-OH-45230/2100891500_zpid/,"$289,255","$195,000",45230,4 beds,OH,,1.5 baths,"2,780 sqft",(347) 891-9342 
+Waynesville,http://www.zillow.com/homedetails/5684-Fairfield-Dr-Waynesville-OH-45068/35619494_zpid/,"$131,651","$174,900",45068,4 beds,OH,,2.5 baths,"1,926 sqft",
+Woodsfield,http://www.zillow.com/homedetails/103-Sheffield-Ave-Woodsfield-OH-43793/113906832_zpid/,"$91,609","$127,500",43793,3 beds,OH,,1 bath,"1,407 sqft",(765) 580-2802 
+Westerville,http://www.zillow.com/homedetails/67-Parkview-Ave-Westerville-OH-43081/34003838_zpid/,"$164,384","$225,000",43081,3 beds,OH,,1.5 baths,"1,243 sqft",(614) 975-2995 
+Berkey,http://www.zillow.com/homedetails/11625-Sylvania-Ave-Berkey-OH-43504/111137916_zpid/,"$135,980","$199,000",43504,4 beds,OH,,2 baths,"1,568 sqft",(419) 277-1631 
+Euclid,http://www.zillow.com/homedetails/23325-Ivan-Ave-Euclid-OH-44123/33629844_zpid/,"$78,571",,44123,5 beds,OH,,2 baths,"1,797 sqft",
+Cleveland,http://www.zillow.com/homedetails/2280-E-103rd-St-Cleveland-OH-44106/33409718_zpid/,Price Unknown,,44106,3 beds,OH,,1 bath,"1,144 sqft",
+Dayton,http://www.zillow.com/homedetails/1431-Willow-Park-Ct-Dayton-OH-45458/35051137_zpid/,"$360,731",,45458,4 beds,OH,,4 baths,"4,286 sqft",
+Bellevue,http://www.zillow.com/homedetails/413-Ellis-Ave-Bellevue-OH-44811/75108720_zpid/,"$97,023",,44811,3 beds,OH,,2 baths,"1,843 sqft",
+Cleveland,http://www.zillow.com/homedetails/(Undisclosed-Address)-Cleveland-OH-44125/2100745704_zpid/,"$78,871","$69,900",44125,3 beds,OH,,1 bath,"1,525 sqft",(216) 854-2485 
+Akron,http://www.zillow.com/homedetails/269-Hohman-Ave-Akron-OH-44319/35341356_zpid/,"$69,131","$92,900",44319,2 beds,OH,,1 bath,948 sqft,(330) 801-7293 
+Elyria,http://www.zillow.com/homedetails/8957-W-Ridge-Rd-Elyria-OH-44035/34577621_zpid/,"$38,495",,44035,2 beds,OH,,1.5 baths,937 sqft,
+Columbus,http://www.zillow.com/homedetails/1356-Glenn-Ave-Columbus-OH-43212/33966138_zpid/,"$333,588","$594,900",43212,4 beds,OH,,2.5 baths,"2,210 sqft",(614) 481-4062 
+Rocky River,http://www.zillow.com/homedetails/2950-Northview-Rd-Rocky-River-OH-44116/33486655_zpid/,"$135,424","$169,999",44116,3 beds,OH,,2 baths,"1,660 sqft",(216) 315-9111 
+Cincinnati,http://www.zillow.com/homedetails/7200-Bobby-Ln-Cincinnati-OH-45243/34394395_zpid/,"$283,254","$399,000",45243,4 beds,OH,,3 baths,"2,489 sqft",(614) 218-9370 
+Holland,http://www.zillow.com/homedetails/10050-Dorr-St-Holland-OH-43528/34733196_zpid/,"$70,640","$85,000",43528,2 beds,OH,,1 bath,752 sqft,(567) 297-1112 
+Cleveland,http://www.zillow.com/homedetails/7403-Canton-Ave-Cleveland-OH-44105/33425863_zpid/,"$35,440",,44105,3 beds,OH,,1 bath,"1,030 sqft",
+Sidney,http://www.zillow.com/homedetails/1112-Colonial-Dr-Sidney-OH-45365/75117055_zpid/,"$73,478","$79,900",45365,3 beds,OH,,1 bath,950 sqft,(937) 489-9080 
+Cleveland,http://www.zillow.com/homedetails/3868-E-123rd-St-Cleveland-OH-44105/33433877_zpid/,"$30,844",,44105,2 beds,OH,,1 bath,"1,140 sqft",
+Lexington,http://www.zillow.com/homedetails/185-Frederick-St-Lexington-OH-44904/86632284_zpid/,"$129,695","$145,000",44904,3 beds,OH,,2 baths,"2,500 sqft",(419) 261-9053 
+Marceline,http://www.zillow.com/homedetails/10242-Hwy-5-Marceline-MO-64658/2100853850_zpid/,,"$175,900",64658,5 beds,MO,,2.75 baths,"2,680 sqft",(316) 250-5124 
+Niangua,http://www.zillow.com/homedetails/0-Good-Spring-Rd-Niangua-MO-65713/2117596847_zpid/,,"$9,500",65713,,MO,,,,(417) 741-0508 
+Saint Louis,http://www.zillow.com/homedetails/(Undisclosed-Address)-Saint-Louis-MO-63116/2100715502_zpid/,"$82,994","$30,000",63116,2 beds,MO,,1 bath,936 sqft,(618) 717-2107 
+Saint Charles,http://www.zillow.com/homedetails/1941-Elm-St-Saint-Charles-MO-63301/59952788_zpid/,"$380,645","$399,000",63301,4 beds,MO,,3 baths,"3,321 sqft",(314) 302-1805 
+Saint Louis,http://www.zillow.com/homedetails/2022-Lilly-Ave-Saint-Louis-MO-63110/2970717_zpid/,"$300,805","$340,000",63110,4 beds,MO,,4 baths,"2,700 sqft",
+California,http://www.zillow.com/homedetails/60026-Badger-Lane-California-MO-65018/2100695290_zpid/,,"$91,000",65018,3 beds,MO,,1 bath,"1,315 sqft",(573) 304-2100 
+Brookfield,http://www.zillow.com/homedetails/843-Brookfield-Ave-Brookfield-MO-64628/2110448910_zpid/,"$69,725","$129,900",64628,3 beds,MO,,3 baths,"1,994 sqft",(660) 268-6003 
+Springfield,http://www.zillow.com/homedetails/2004-E-Woodland-St-Springfield-MO-65804/50294421_zpid/,"$134,201","$154,900",65804,3 beds,MO,,2 baths,"1,858 sqft",(417) 830-5265 
+Hannibal,http://www.zillow.com/homedetails/2-El-Rancho-Dr-Hannibal-MO-63401/2121130125_zpid/,"$229,902","$183,500",63401,4 beds,MO,,2 baths,"2,062 sqft",(217) 779-3666 
+Kansas City,http://www.zillow.com/homedetails/705-W-91st-St-Kansas-City-MO-64114/2430221_zpid/,"$122,730","$145,000",64114,3 beds,MO,,1 bath,"1,200 sqft",(785) 766-5598 
+Independence,http://www.zillow.com/homedetails/301-W-Colonel-Dr-Independence-MO-64050/2290911_zpid/,"$60,354","$72,500",64050,3 beds,MO,,1 bath,912 sqft,(816) 805-9973 
+Webster Groves,http://www.zillow.com/homedetails/828-Colebrook-Dr-Webster-Groves-MO-63119/2835442_zpid/,"$245,140","$279,950",63119,3 beds,MO,,2 baths,"2,000 sqft",(314) 276-5413 
+Arnold,http://www.zillow.com/homedetails/2321-Lincoln-Dr-Arnold-MO-63010/49681561_zpid/,"$110,172","$134,900",63010,3 beds,MO,,2 baths,"1,176 sqft",(314) 258-5616 
+Springfield,http://www.zillow.com/homedetails/2126-N-Fremont-Ave-Springfield-MO-65803/50229629_zpid/,"$42,875","$60,900",65803,2 beds,MO,,1 bath,936 sqft,(417) 619-0077 
+Saint Louis,http://www.zillow.com/homedetails/115-Becker-Dr-Saint-Louis-MO-63135/2641962_zpid/,"$43,169","$57,999",63135,2 beds,MO,,1 bath,832 sqft,
+Saint Louis,http://www.zillow.com/homedetails/5223-Nottingham-Ave-Saint-Louis-MO-63109/2997044_zpid/,"$162,542","$184,999",63109,3 beds,MO,,2 baths,"1,302 sqft",(314) 413-5514 
+Fenton,http://www.zillow.com/homedetails/21-Wallach-Dr-Fenton-MO-63026/49689955_zpid/,"$173,507","$169,900",63026,3 beds,MO,,3 baths,"1,552 sqft",(636) 677-1188 
+Webster Groves,http://www.zillow.com/homedetails/644-Barstow-Pl-Webster-Groves-MO-63119/2817423_zpid/,"$438,184","$460,000",63119,4 beds,MO,,2 baths,"2,719 sqft",(314) 502-0086 
+Washington,http://www.zillow.com/homedetails/338-High-St-Washington-MO-63090/67504516_zpid/,"$91,947","$128,500",63090,4 beds,MO,,2 baths,"1,341 sqft",(636) 484-0626 
+Farmington,http://www.zillow.com/homedetails/519-Maple-St-Farmington-MO-63640/106904949_zpid/,"$83,883","$94,900",63640,3 beds,MO,,1 bath,"1,000 sqft",
+Springfield,http://www.zillow.com/homedetails/6295-E-Spring-Circle-Dr-Springfield-MO-65809/50227498_zpid/,"$173,073","$239,900",65809,3 beds,MO,,2 baths,"2,800 sqft",(970) 443-9516 
+Saint Louis,http://www.zillow.com/homedetails/9220-Crawford-Ave-Saint-Louis-MO-63144/2784427_zpid/,"$162,222","$123,000",63144,2 beds,MO,,1 bath,881 sqft,
+Saint Louis,http://www.zillow.com/homedetails/3321-Sage-Ct-Saint-Louis-MO-63129/2923422_zpid/,"$134,543","$189,900",63129,3 beds,MO,,2 baths,"1,425 sqft",
+Kansas City,http://www.zillow.com/homedetails/121-W-48th-St-APT-904-Kansas-City-MO-64112/61634625_zpid/,"$391,258","$200,000",64112,2 beds,MO,,2 baths,"1,169 sqft",
+Bronx,http://www.zillow.com/homedetails/3674-Barnes-Ave-Bronx-NY-10467/29827131_zpid/,"$446,131",,10467,9 beds,NY,,3 baths,"2,280 sqft",
+Flushing,http://www.zillow.com/homedetails/21940-64th-Ave-Flushing-NY-11364/32087286_zpid/,"$479,013",,11364,3 beds,NY,,2 baths,"1,050 sqft",
+Lake Grove,http://www.zillow.com/homedetails/125-Hudson-Ave-Lake-Grove-NY-11755/59449550_zpid/,"$247,012",,11755,3 beds,NY,,1 bath,"1,200 sqft",
+Bronx,http://www.zillow.com/homedetails/958-E-219th-St-Bronx-NY-10469/121230084_zpid/,"$506,792",,10469,9 beds,NY,,6 baths,"2,572 sqft",
+Coram,http://www.zillow.com/homedetails/286-Brettonwoods-Dr-Coram-NY-11727/59326779_zpid/,"$159,573",,11727,2 beds,NY,,1 bath,839 sqft,
+Ridge,http://www.zillow.com/homedetails/166-Ventry-Ct-UNIT-D-Ridge-NY-11961/59467030_zpid/,"$120,203",,11961,1 bed,NY,,1 bath,-- sqft,
+Bronx,http://www.zillow.com/homedetails/1144-E-225th-St-Bronx-NY-10466/29834460_zpid/,"$350,511",,10466,3 beds,NY,,2 baths,"1,894 sqft",
+New York,http://www.zillow.com/homedetails/16-E-12th-St-2D-New-York-NY-10003/31498629_zpid/,"$2,158,517",,10003,2 beds,NY,,1.5 baths,"1,200 sqft",
+New Rochelle,http://www.zillow.com/homedetails/12-Pratt-St-New-Rochelle-NY-10801/32956579_zpid/,"$412,510",,10801,4 beds,NY,,3 baths,"1,500 sqft",
+Deer Park,http://www.zillow.com/homedetails/26-Scott-Ave-Deer-Park-NY-11729/32625052_zpid/,"$250,281",,11729,3 beds,NY,,1 bath,"1,000 sqft",
+New Rochelle,http://www.zillow.com/homedetails/701-Pelham-Rd-APT-1F-New-Rochelle-NY-10805/66508447_zpid/,"$260,403",,10805,1 bed,NY,,1.5 baths,950 sqft,
+Hampton Bays,http://www.zillow.com/homedetails/12-Ocean-Ave-Hampton-Bays-NY-11946/32737276_zpid/,"$460,762",,11946,4 beds,NY,,3 baths,"2,000 sqft",
+Brooklyn,http://www.zillow.com/homedetails/929-Schenectady-Ave-Brooklyn-NY-11203/30653408_zpid/,"$398,235",,11203,4 beds,NY,,3 baths,"1,312 sqft",
+Kings Park,http://www.zillow.com/homedetails/46-Aspen-Rd-Kings-Park-NY-11754/32686271_zpid/,"$431,928",,11754,5 beds,NY,,4 baths,"1,050 sqft",
+Brooklyn,http://www.zillow.com/homedetails/170-Prospect-Park-W-Brooklyn-NY-11215/30588351_zpid/,Price Unknown,,11215,1 bed,NY,,1 bath,"11,890 sqft",
+Flushing,http://www.zillow.com/homedetails/14442-70th-Ave-Flushing-NY-11367/32068578_zpid/,"$784,401","$815,000",11367,3 beds,NY,,2.5 baths,"2,540 sqft",
+Brooklyn,http://www.zillow.com/homedetails/324-State-St-Brooklyn-NY-11201/30566378_zpid/,"$3,201,838",,11201,3 beds,NY,,2 baths,"4,000 sqft",
+Freeport,http://www.zillow.com/homedetails/725-Miller-Ave-APT-236-Freeport-NY-11520/31413099_zpid/,"$360,115",,11520,1 bed,NY,,1 bath,550 sqft,
+Brooklyn,http://www.zillow.com/homedetails/1069-Herkimer-St-Brooklyn-NY-11233/30601220_zpid/,"$686,675",,11233,5 beds,NY,,3 baths,"1,740 sqft",
+Hempstead,http://www.zillow.com/homedetails/36-Catherine-St-Hempstead-NY-11550/31199763_zpid/,"$250,355",,11550,4 beds,NY,,3 baths,"1,306 sqft",
+Brooklyn,http://www.zillow.com/homedetails/1528-E-98th-St-APT-203-Brooklyn-NY-11236/30778406_zpid/,"$206,267",,11236,1 bed,NY,,1 bath,545 sqft,
+Brooklyn,http://www.zillow.com/homedetails/169A-Stuyvesant-Ave-Brooklyn-NY-11221/30603155_zpid/,"$987,056",,11221,4 beds,NY,,1 bath,"2,400 sqft",
+Staten Island,http://www.zillow.com/homedetails/141-Harrison-Ave-Staten-Island-NY-10302/32297603_zpid/,"$242,598",,10302,4 beds,NY,,2 baths,"1,368 sqft",
+Fresno,http://www.zillow.com/homedetails/3873-E-Holland-Ave-Fresno-CA-93726/18722158_zpid/,"$202,119","$165,000",93726,4 beds,CA,,2 baths,"1,863 sqft",(831) 214-4825 
+Staten Island,http://www.zillow.com/homedetails/157-Merrymount-St-Staten-Island-NY-10314/32312971_zpid/,"$551,616",,10314,5 beds,NY,,4 baths,"2,610 sqft",
+Paso Robles,http://www.zillow.com/homedetails/5110-Stagg-Hill-Rd-Paso-Robles-CA-93446/2101643746_zpid/,"$317,091","$288,900",93446,3 beds,CA,,2 baths,"1,100 sqft",(805) 674-1065 
+San Diego,http://www.zillow.com/homedetails/5119-Triana-St-San-Diego-CA-92117/16864179_zpid/,"$524,450","$700,000",92117,4 beds,CA,,2 baths,"1,674 sqft",
+Encino,http://www.zillow.com/homedetails/5440-Lindley-Ave-UNIT-104-Encino-CA-91316/19937957_zpid/,"$415,361","$479,999",91316,2 beds,CA,,2 baths,"1,582 sqft",
+Chatsworth,http://www.zillow.com/homedetails/20437-Septo-St-Chatsworth-CA-91311/20170269_zpid/,"$405,477",,91311,3 beds,CA,,2 baths,"1,263 sqft",
+San Francisco,http://www.zillow.com/homedetails/2240-Green-St-APT-3-San-Francisco-CA-94123/2132954898_zpid/,"$1,317,986","$1,700,000",94123,1 bed,CA,,1 bath,"1,200 sqft",
+Barstow,http://www.zillow.com/homedetails/25633-Agate-Rd-Barstow-CA-92311/17485068_zpid/,"$70,438",,92311,3 beds,CA,,2 baths,"1,5
