@@ -11,6 +11,10 @@ import scrapy
 class ZillowItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
+    def __setitem__(self, key, value):
+        self._values[key] = value
+        self.fields[key] = {}
+
     propertyUrl = scrapy.Field()
     price = scrapy.Field()
     zestimate = scrapy.Field()
@@ -23,6 +27,5 @@ class ZillowItem(scrapy.Item):
     baths = scrapy.Field()
     sqfts = scrapy.Field()
     priceHistory = scrapy.Field()
-
 
 
